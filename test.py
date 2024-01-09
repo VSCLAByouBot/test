@@ -1,3 +1,4 @@
+print("up")
 print("test")
 print("hello")
 a = 1

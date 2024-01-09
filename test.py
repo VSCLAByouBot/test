@@ -8,3 +8,4 @@ d = 3
 print("good")
 print("hi")
 print("down")
+d = 3
